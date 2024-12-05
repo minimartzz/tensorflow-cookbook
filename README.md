@@ -1,26 +1,21 @@
 <div align="center">
 
-  <img src="assets/header.png" alt="logo" width="200" height="auto" />
-  <h1>{Title here}</h1>
+  <img src="assets/header.png" alt="logo" width="700" height="auto" />
+  <h1>Machine Learning Using TensorFlow Cookbook</h1>
   
   <p>
-    {Description}
+    Notes from the Packt textbook for Machine Learning Using TensorFlow Cookbook. Contains code snippets and notes on using TensorFlow for machine learning.
   </p>
 
 </div>
 
 <br />
 
-<!-- Badges -->
-
 ## Tools
 
-Referece: https://github.com/alexandresanlim/Badges4-README.md-Profile
-or https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#table-of-contents
-
-## Coverage
-
-Reference: https://github.com/dwyl/repo-badges
+![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ---
 
@@ -38,14 +33,16 @@ Reference: https://github.com/dwyl/repo-badges
 
 ## :star2: About the Project
 
-{Description}
+Contains notebooks and code snippets for the Packt textbook Machine Learning Using TensorFlow Cookbook. Each chapter is divided to an individual folder, and each notebook represents a portion of the chapter.
 
 ## :handshake: Contact
 
 Author: Martin Ho
 
-Project Link: []()
+Project Link: [tensorflow-cookbook](https://github.com/minimartzz/tensorflow-cookbook)
 
 <!-- Acknowledgments -->
 
 ## :gem: Acknowledgements
+
+- Packt for the as always great content
