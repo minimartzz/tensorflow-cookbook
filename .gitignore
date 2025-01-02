@@ -1,0 +1,2 @@
+# Remove all .csv files (data files)
+*.csv
